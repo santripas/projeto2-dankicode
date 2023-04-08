@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 html,body {
@@ -20,7 +21,7 @@ html,body {
 }
 
 header {
-    background-color: #D6D6D6;
+    background-color: rgb(180, 180, 180);
     padding: 10px 2% 30px 2%;
 }
 
@@ -65,6 +66,7 @@ section.cover-form {
     height: 110%;
     position: relative;
     top: -5%;
+    box-shadow: 1px 2px 1px 1px;
     background-color: white;
 }
 
@@ -73,7 +75,7 @@ section.cover-form {
     padding: 20px 15px;
     color: black;
     font-size: 18px;
-    background-color: rgb(234, 236, 239);
+    background-color:rgb(200, 200, 200);
 }
 
 
